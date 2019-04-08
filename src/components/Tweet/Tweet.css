@@ -1,0 +1,29 @@
+.tweet{
+background-color: rgb(245, 248, 250);
+border-bottom-color: rgb(230, 236, 240);
+border-bottom-style: solid;
+border-bottom-width: 1px;
+color: rgb(20, 23, 26);
+cursor: pointer;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 20px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+min-height: 51px;
+max-width: 80%;
+min-width: 80%;
+padding-bottom: 9px;
+padding-left: 12px;
+padding-right: 12px;
+padding-top: 9px;
+position: relative;
+text-align: start;
+margin-left:100px;
+margin-top: 20px
+}
+
+p{ margin-left: 70px}
+
+a{ color: red }
